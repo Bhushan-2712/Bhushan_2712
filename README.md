@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coder-bhush
 - 👀 I’m interested in Software Developement.
-- 🌱 I’m currently learning B.Sc COmputer Science
+- 🌱 I’m currently learning B.Sc Computer Science
 - 💞️ I’m looking to collaborate on Python Programming 
 - 📫 Email : bhushanjarhad03@gmail.com
 - Mr. Bhushan Jarhad
