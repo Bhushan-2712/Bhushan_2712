@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coder-bhush
+- 👋 Hi, I’m @bhushan
 - 👀 I’m interested in Software Developement.
 - 🌱 I’m currently learning B.Sc Computer Science
 - 💞️ I’m looking to collaborate on Web Developement. 
