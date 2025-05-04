@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhushan
-- 👀 I’m interested in Website Developement.
-- 🌱 I’m currently learning B.Sc Computer Science
-- 💞️ I’m looking to collaborate on Web Developement. 
+- 👀 I’m interested in Software Automation Testing.
+- 🌱 I’m recently passout B.Sc Computer Science.
+- 💞️ I’m looking to collaborate on Web Developement, Software Testing. 
 - 📫 Email : bhushanjarhad03@gmail.com
 - Mr. Bhushan Jarhad
   
