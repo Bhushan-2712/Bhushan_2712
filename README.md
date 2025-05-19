@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhushan
 - 👀 I’m interested in Software Automation Testing.
 - 🌱 I’m recently passout B.Sc Computer Science.
-- 💞️ I’m looking to collaborate on Web Developement, Software Testing. 
+- 💞️ I’m looking to collaborate on Python Programming, Software Testing. 
 - 📫 Email : bhushanjarhad03@gmail.com
 - Mr. Bhushan Jarhad
   
